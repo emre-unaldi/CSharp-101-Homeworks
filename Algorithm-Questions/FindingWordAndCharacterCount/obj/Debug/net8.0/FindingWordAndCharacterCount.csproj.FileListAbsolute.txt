@@ -1,0 +1,14 @@
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingWordAndCharacterCount\bin\Debug\net8.0\FindingWordAndCharacterCount.exe
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingWordAndCharacterCount\bin\Debug\net8.0\FindingWordAndCharacterCount.deps.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingWordAndCharacterCount\bin\Debug\net8.0\FindingWordAndCharacterCount.runtimeconfig.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingWordAndCharacterCount\bin\Debug\net8.0\FindingWordAndCharacterCount.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingWordAndCharacterCount\bin\Debug\net8.0\FindingWordAndCharacterCount.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingWordAndCharacterCount\obj\Debug\net8.0\FindingWordAndCharacterCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingWordAndCharacterCount\obj\Debug\net8.0\FindingWordAndCharacterCount.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingWordAndCharacterCount\obj\Debug\net8.0\FindingWordAndCharacterCount.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingWordAndCharacterCount\obj\Debug\net8.0\FindingWordAndCharacterCount.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingWordAndCharacterCount\obj\Debug\net8.0\FindingWordAndCharacterCount.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingWordAndCharacterCount\obj\Debug\net8.0\refint\FindingWordAndCharacterCount.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingWordAndCharacterCount\obj\Debug\net8.0\FindingWordAndCharacterCount.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingWordAndCharacterCount\obj\Debug\net8.0\FindingWordAndCharacterCount.genruntimeconfig.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingWordAndCharacterCount\obj\Debug\net8.0\ref\FindingWordAndCharacterCount.dll

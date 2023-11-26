@@ -1,0 +1,14 @@
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEvenNumbers\bin\Debug\net8.0\FindingEvenNumbers.exe
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEvenNumbers\bin\Debug\net8.0\FindingEvenNumbers.deps.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEvenNumbers\bin\Debug\net8.0\FindingEvenNumbers.runtimeconfig.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEvenNumbers\bin\Debug\net8.0\FindingEvenNumbers.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEvenNumbers\bin\Debug\net8.0\FindingEvenNumbers.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEvenNumbers\obj\Debug\net8.0\FindingEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEvenNumbers\obj\Debug\net8.0\FindingEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEvenNumbers\obj\Debug\net8.0\FindingEvenNumbers.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEvenNumbers\obj\Debug\net8.0\FindingEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEvenNumbers\obj\Debug\net8.0\FindingEvenNumbers.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEvenNumbers\obj\Debug\net8.0\refint\FindingEvenNumbers.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEvenNumbers\obj\Debug\net8.0\FindingEvenNumbers.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEvenNumbers\obj\Debug\net8.0\FindingEvenNumbers.genruntimeconfig.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEvenNumbers\obj\Debug\net8.0\ref\FindingEvenNumbers.dll

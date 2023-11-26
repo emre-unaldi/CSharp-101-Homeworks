@@ -1,0 +1,14 @@
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\ReverseWords\bin\Debug\net8.0\ReverseWords.exe
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\ReverseWords\bin\Debug\net8.0\ReverseWords.deps.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\ReverseWords\bin\Debug\net8.0\ReverseWords.runtimeconfig.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\ReverseWords\bin\Debug\net8.0\ReverseWords.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\ReverseWords\bin\Debug\net8.0\ReverseWords.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\ReverseWords\obj\Debug\net8.0\ReverseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\ReverseWords\obj\Debug\net8.0\ReverseWords.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\ReverseWords\obj\Debug\net8.0\ReverseWords.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\ReverseWords\obj\Debug\net8.0\ReverseWords.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\ReverseWords\obj\Debug\net8.0\ReverseWords.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\ReverseWords\obj\Debug\net8.0\refint\ReverseWords.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\ReverseWords\obj\Debug\net8.0\ReverseWords.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\ReverseWords\obj\Debug\net8.0\ReverseWords.genruntimeconfig.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\ReverseWords\obj\Debug\net8.0\ref\ReverseWords.dll

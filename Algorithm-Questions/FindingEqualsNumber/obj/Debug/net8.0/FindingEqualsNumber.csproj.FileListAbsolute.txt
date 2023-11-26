@@ -1,0 +1,14 @@
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEqualsNumber\bin\Debug\net8.0\FindingEqualsNumber.exe
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEqualsNumber\bin\Debug\net8.0\FindingEqualsNumber.deps.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEqualsNumber\bin\Debug\net8.0\FindingEqualsNumber.runtimeconfig.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEqualsNumber\bin\Debug\net8.0\FindingEqualsNumber.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEqualsNumber\bin\Debug\net8.0\FindingEqualsNumber.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEqualsNumber\obj\Debug\net8.0\FindingEqualsNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEqualsNumber\obj\Debug\net8.0\FindingEqualsNumber.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEqualsNumber\obj\Debug\net8.0\FindingEqualsNumber.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEqualsNumber\obj\Debug\net8.0\FindingEqualsNumber.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEqualsNumber\obj\Debug\net8.0\FindingEqualsNumber.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEqualsNumber\obj\Debug\net8.0\refint\FindingEqualsNumber.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEqualsNumber\obj\Debug\net8.0\FindingEqualsNumber.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEqualsNumber\obj\Debug\net8.0\FindingEqualsNumber.genruntimeconfig.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\FindingEqualsNumber\obj\Debug\net8.0\ref\FindingEqualsNumber.dll
