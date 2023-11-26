@@ -1,0 +1,15 @@
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionOne\bin\Debug\net8.0\CollectionsQuestionOne.exe
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionOne\bin\Debug\net8.0\CollectionsQuestionOne.deps.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionOne\bin\Debug\net8.0\CollectionsQuestionOne.runtimeconfig.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionOne\bin\Debug\net8.0\CollectionsQuestionOne.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionOne\bin\Debug\net8.0\CollectionsQuestionOne.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionOne\obj\Debug\net8.0\CollectionsQuestionOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionOne\obj\Debug\net8.0\CollectionsQuestionOne.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionOne\obj\Debug\net8.0\CollectionsQuestionOne.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionOne\obj\Debug\net8.0\CollectionsQuestionOne.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionOne\obj\Debug\net8.0\CollectionsQuestionOne.sourcelink.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionOne\obj\Debug\net8.0\CollectionsQuestionOne.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionOne\obj\Debug\net8.0\refint\CollectionsQuestionOne.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionOne\obj\Debug\net8.0\CollectionsQuestionOne.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionOne\obj\Debug\net8.0\CollectionsQuestionOne.genruntimeconfig.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionOne\obj\Debug\net8.0\ref\CollectionsQuestionOne.dll

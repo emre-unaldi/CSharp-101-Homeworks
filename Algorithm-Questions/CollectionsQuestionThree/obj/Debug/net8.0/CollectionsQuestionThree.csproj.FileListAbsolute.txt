@@ -1,0 +1,15 @@
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionThree\bin\Debug\net8.0\CollectionsQuestionThree.exe
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionThree\bin\Debug\net8.0\CollectionsQuestionThree.deps.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionThree\bin\Debug\net8.0\CollectionsQuestionThree.runtimeconfig.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionThree\bin\Debug\net8.0\CollectionsQuestionThree.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionThree\bin\Debug\net8.0\CollectionsQuestionThree.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionThree\obj\Debug\net8.0\CollectionsQuestionThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionThree\obj\Debug\net8.0\CollectionsQuestionThree.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionThree\obj\Debug\net8.0\CollectionsQuestionThree.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionThree\obj\Debug\net8.0\CollectionsQuestionThree.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionThree\obj\Debug\net8.0\CollectionsQuestionThree.sourcelink.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionThree\obj\Debug\net8.0\CollectionsQuestionThree.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionThree\obj\Debug\net8.0\refint\CollectionsQuestionThree.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionThree\obj\Debug\net8.0\CollectionsQuestionThree.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionThree\obj\Debug\net8.0\CollectionsQuestionThree.genruntimeconfig.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionThree\obj\Debug\net8.0\ref\CollectionsQuestionThree.dll

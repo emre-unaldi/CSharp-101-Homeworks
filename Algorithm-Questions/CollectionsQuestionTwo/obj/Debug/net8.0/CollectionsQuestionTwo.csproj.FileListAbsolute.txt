@@ -1,0 +1,15 @@
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionTwo\bin\Debug\net8.0\CollectionsQuestionTwo.exe
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionTwo\bin\Debug\net8.0\CollectionsQuestionTwo.deps.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionTwo\bin\Debug\net8.0\CollectionsQuestionTwo.runtimeconfig.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionTwo\bin\Debug\net8.0\CollectionsQuestionTwo.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionTwo\bin\Debug\net8.0\CollectionsQuestionTwo.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionTwo\obj\Debug\net8.0\CollectionsQuestionTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionTwo\obj\Debug\net8.0\CollectionsQuestionTwo.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionTwo\obj\Debug\net8.0\CollectionsQuestionTwo.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionTwo\obj\Debug\net8.0\CollectionsQuestionTwo.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionTwo\obj\Debug\net8.0\CollectionsQuestionTwo.sourcelink.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionTwo\obj\Debug\net8.0\CollectionsQuestionTwo.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionTwo\obj\Debug\net8.0\refint\CollectionsQuestionTwo.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionTwo\obj\Debug\net8.0\CollectionsQuestionTwo.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionTwo\obj\Debug\net8.0\CollectionsQuestionTwo.genruntimeconfig.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\Algorithm-Questions\CollectionsQuestionTwo\obj\Debug\net8.0\ref\CollectionsQuestionTwo.dll
