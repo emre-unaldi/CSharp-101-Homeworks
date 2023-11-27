@@ -1,0 +1,15 @@
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\PhoneBookApplication\bin\Debug\net8.0\PhoneBookApplication.exe
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\PhoneBookApplication\bin\Debug\net8.0\PhoneBookApplication.deps.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\PhoneBookApplication\bin\Debug\net8.0\PhoneBookApplication.runtimeconfig.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\PhoneBookApplication\bin\Debug\net8.0\PhoneBookApplication.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\PhoneBookApplication\bin\Debug\net8.0\PhoneBookApplication.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\PhoneBookApplication\obj\Debug\net8.0\PhoneBookApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\PhoneBookApplication\obj\Debug\net8.0\PhoneBookApplication.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\PhoneBookApplication\obj\Debug\net8.0\PhoneBookApplication.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\PhoneBookApplication\obj\Debug\net8.0\PhoneBookApplication.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\PhoneBookApplication\obj\Debug\net8.0\PhoneBookApplication.sourcelink.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\PhoneBookApplication\obj\Debug\net8.0\PhoneBookApplication.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\PhoneBookApplication\obj\Debug\net8.0\refint\PhoneBookApplication.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\PhoneBookApplication\obj\Debug\net8.0\PhoneBookApplication.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\PhoneBookApplication\obj\Debug\net8.0\PhoneBookApplication.genruntimeconfig.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\PhoneBookApplication\obj\Debug\net8.0\ref\PhoneBookApplication.dll
