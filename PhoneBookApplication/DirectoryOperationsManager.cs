@@ -10,10 +10,10 @@ namespace PhoneBookApplication
 
         public DirectoryOperationsManager() { 
             persons.Add(new Person("Emre", "Ünaldı", "05078711181"));
-            persons.Add(new Person("Ahmet", "Yangel", "05078711182"));
-            persons.Add(new Person("Çağatay", "Celimli", "05078711183"));
-            persons.Add(new Person("Ali", "Turhal", "05078711184"));
-            persons.Add(new Person("Ömer", "Gün", "05078711185"));
+            persons.Add(new Person("Ali", "Turhal", "05078711182"));
+            persons.Add(new Person("Ömer", "Gün", "05078711183"));
+            persons.Add(new Person("Ahmet", "Yangel", "05078711184"));
+            persons.Add(new Person("Mehmet", "Tecir", "05078711185"));
         }
 
         public void Add()
@@ -57,9 +57,9 @@ namespace PhoneBookApplication
 
         public void Delete()
         {
-            repeat:
             try
             {
+            repeat:
                 Console.WriteLine("|------------------ Telefon Numarası Sil --------------------|");
                 Console.Write("Silmek istediğiniz kişinin adını veya soyadını giriniz : ");
                 string personInfo = Console.ReadLine().ToLower().Trim();
@@ -233,9 +233,9 @@ namespace PhoneBookApplication
 
         public void Update()
         {
-        repeat:
             try
             {
+                repeat:
                 Console.WriteLine("|---------------- Telefon Numarası Güncelle -----------------|");
                 Console.Write("Güncellemek istediğiniz kişinin adını veya soyadını giriniz : ");
                 string personInfo = Console.ReadLine().ToLower().Trim();

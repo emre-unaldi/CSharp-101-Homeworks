@@ -1,0 +1,15 @@
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\ToDoApplication\obj\Debug\net8.0\ToDoApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\ToDoApplication\obj\Debug\net8.0\ToDoApplication.AssemblyInfoInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\ToDoApplication\obj\Debug\net8.0\ToDoApplication.AssemblyInfo.cs
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\ToDoApplication\obj\Debug\net8.0\ToDoApplication.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\ToDoApplication\obj\Debug\net8.0\ToDoApplication.sourcelink.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\ToDoApplication\bin\Debug\net8.0\ToDoApplication.exe
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\ToDoApplication\bin\Debug\net8.0\ToDoApplication.deps.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\ToDoApplication\bin\Debug\net8.0\ToDoApplication.runtimeconfig.json
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\ToDoApplication\bin\Debug\net8.0\ToDoApplication.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\ToDoApplication\bin\Debug\net8.0\ToDoApplication.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\ToDoApplication\obj\Debug\net8.0\ToDoApplication.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\ToDoApplication\obj\Debug\net8.0\refint\ToDoApplication.dll
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\ToDoApplication\obj\Debug\net8.0\ToDoApplication.pdb
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\ToDoApplication\obj\Debug\net8.0\ToDoApplication.genruntimeconfig.cache
+C:\Users\emree\Desktop\C#\C# 101 Homeworks\ToDoApplication\obj\Debug\net8.0\ref\ToDoApplication.dll
